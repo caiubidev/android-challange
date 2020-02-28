@@ -43,6 +43,7 @@ Faça pelo menos três telas  (se achar necessário mais telas, faça!) como sug
 - Pipeline automatizado.
 - Padrão de Projeto e boas práticas de Orientação a Objetos.
 - Google AAC (Android Architecture Components) 
+- Android Jetpack
 - RxJava ou Coroutines
 - Cache de imagens
 - Injeção de dependência (dagger, koin, kodein)
